@@ -21,7 +21,7 @@ function getNowToNewYear() {
     // 验证
     console.log(Now.getTime());
     // 新年时间
-    var NewYear = new Date("2021-01-01");
+    var NewYear = new Date("2021-1-1");
     // 验证
     console.log(NewYear.getFullYear(), NewYear.getMonth(), NewYear.getDate());
     console.log(NewYear.getTime());
