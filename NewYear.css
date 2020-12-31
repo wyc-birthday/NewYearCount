@@ -15,7 +15,7 @@ html {
 .fa {
   color:#6c5ce7;
   margin-top: 200px;
-  background-color: rgba(0, 17, 17, 0.5);
+  background-color: rgba(0, 17, 17, 0.2);
   /*边框圆角*/
   border-radius: 50px;
   /*伸缩布局*/
